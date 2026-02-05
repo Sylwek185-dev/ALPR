@@ -10,17 +10,20 @@ Interfejs graficzny został wykonany w Streamlit.
 ```
 git clone https://github.com/Sylwek185-dev/ALPR.git
 cd ALPR
-
 ```
 
 ### 1) Instalacja
 
+#### macOS / Linux
+
 ```
 python -m venv .venv
-source .venv/bin/activate # macOS / Linux
+source .venv/bin/activate
 ```
 
 #### lub:
+
+#### Windows
 
 ```
 .venv\Scripts\activate # Windows
