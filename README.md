@@ -5,6 +5,14 @@ na parking na podstawie rozpoznawania tablic rejestracyjnych (ANPR).
 
 Interfejs graficzny został wykonany w Streamlit.
 
+### Pobranie projektu z GitHub
+
+```
+git clone https://github.com/Sylwek185-dev/ALPR.git
+cd ALPR
+
+```
+
 ### 1) Instalacja
 
 ```
@@ -57,8 +65,20 @@ http://localhost:8501
 
 uruchom aplikację z katalogu głównego projektu poleceniem:
 
+<br>
+
+w macOS/Linux
+
 ```
 PYTHONPATH=. python -m streamlit run src/gui.py
+```
+
+<br>
+
+w Windows
+
+```set PYTHONPATH=.
+python -m streamlit run src/gui.py
 ```
 
 ---
