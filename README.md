@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ### 3) Uruchomienie aplikacji (GUI)
 
 ```
-python -m streamlit run src/gui.py
+./.venv/bin/python -m streamlit run src/gui.py
 ```
 
 Po uruchomieniu aplikacja będzie dostępna w przeglądarce pod adresem:
