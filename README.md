@@ -1,4 +1,4 @@
-## Parking ANPR (YOLO + OCR + SQLite)
+## Parking ALPR (YOLO + OCR + SQLite)
 
 Aplikacja webowa do automatycznej kontroli wjazdu i wyjazdu pojazdów
 na parking na podstawie rozpoznawania tablic rejestracyjnych (ANPR).
